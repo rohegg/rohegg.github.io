@@ -12,3 +12,17 @@ My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
 
 ### License
 All this stuff is under the [MIT License](https://raw.githubusercontent.com/getmicah/getmicah.github.io/master/LICENSE)
+
+
+### 터미널 기본 명령어
+
+-  cd
+- open .
+- ls
+- pwd
+- mkdir %folder name%
+
+
+### jekyll
+
+- 로컬 서버 실행 : bundle exec jekyll serve

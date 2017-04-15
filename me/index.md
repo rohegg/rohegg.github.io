@@ -2,4 +2,4 @@
 layout: about
 ---
 
-This is an about page. Tell the people visiting your page a little about yourself.
+타세요. 멀리가려면 함께 가야하니까.
