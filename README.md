@@ -1,13 +1,14 @@
-# Thinkspace v2.1
+# blog
+My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
 
-Thinkspace is just another minimalist Jekyll theme which is best suit for technical writing, but not limited to. Good for personal blog type too or project-based blog. Disqus comment is included.
 
-[**Live Demo**](http://heiswayi.github.io/thinkspace/)
+### Install
 
-### Screenshot
-
-![Thinkspace Screenshot](http://i.imgur.com/IMQDB9e.png)
+* fork this repository
+* edit the `_config.yml` with your info
+* change the links in `_data/navigation.yml`
+* remove my posts from `_posts/`
+* rename your repo to ***your-username*.github.io**
 
 ### License
-
-[MIT](LICENSE.md)
+All this stuff is under the [MIT License](https://raw.githubusercontent.com/getmicah/getmicah.github.io/master/LICENSE)
