@@ -2,4 +2,5 @@
 layout: about
 ---
 
-타세요. 멀리가려면 함께 가야하니까.
+<p align="center"><img src="https://rohegg.github.io/assets/img/originoflove.PNG" width="60%"></p>
+
