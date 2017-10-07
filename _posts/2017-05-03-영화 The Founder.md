@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 영화 The Founder를 보고나서
+title: 영화 The Founder
 date: 2017-05-03T15:37:00Z
 ---
 
