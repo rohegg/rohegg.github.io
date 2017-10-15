@@ -1,6 +1,6 @@
 ---
 layout: post
-title: everything store
+title: Everything store
 date: 2017-10-15T21:44:00Z
 ---
 
