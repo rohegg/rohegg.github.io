@@ -788,7 +788,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  color: #000000;
+  color: #fff;
   font-weight: 400;
 }
 
@@ -821,6 +821,7 @@ pre code {
 }
 
 .flex-container {
+  background-color: #000;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -891,7 +892,7 @@ pre code {
 .main-header {
   font-family: 'Lato', sans-serif;
   padding: 15px 0;
-  background-color: #fff;
+  background-color: #000;
   -webkit-box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.3);
           box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.3);
 }
@@ -921,7 +922,7 @@ pre code {
   text-transform: uppercase;
   font-size: 27px;
   font-weight: 300;
-  color: #000000;
+  color: #f7557f;
 }
 
 .main-nav {
@@ -978,7 +979,7 @@ pre code {
 .search-icon-close {
   cursor: pointer;
   font-size: 18px;
-  color: #000000;
+  color: #f7557f;
   -webkit-transition: all .4s;
   transition: all .4s;
 }
@@ -1157,18 +1158,18 @@ pre code {
   text-decoration: none;
   text-transform: uppercase;
   font-size: 14px;
-  color: #191919;
+  color: #f7557f;
 }
 
 .pagination .previous:hover, .pagination .next:hover {
-  opacity: .8;
+  opacity: .3;
   color: #f7557f;
 }
 
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */
 .main-footer {
   padding: 15px 0;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .main-footer .copyright {
@@ -1537,11 +1538,15 @@ pre code {
 .blog-tags h1 {
   text-align: center;
   font-family: 'Lato', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 36px;
   text-align: center;
   margin: 0 0 30px;
-  color: #000000;
+  color: #fff;
+}
+
+.blog-tags h2 {
+  color: #f7557f;
 }
 
 .blog-tags .tags {
@@ -1552,7 +1557,7 @@ pre code {
 
 .blog-tags .tags li a {
   display: inline-block;
-  color: #000000;
+  color: #fff;
 }
 
 .blog-tags .tags li a:hover {
@@ -1561,7 +1566,7 @@ pre code {
 
 .blog-tags .tag-list span a {
   display: inline-block;
-  color: #000000;
+  color: #fff;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 12px;
@@ -1574,7 +1579,7 @@ pre code {
 }
 
 .blog-tags .tag-list small {
-  color: #f7557f;
+  color: #fff;
 }
 
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
