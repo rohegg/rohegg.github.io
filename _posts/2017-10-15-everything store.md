@@ -3,7 +3,7 @@ layout: post
 title:  Everything store
 date:   2017-10-15 07:12:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: madmax.jpg # Add image post (optional)
+img: jeffbezos.jpg # Add image post (optional)
 tags: [Blog, Books]
 author: Jeffrey Preston Bezos # Add name author (optional)
 ---
