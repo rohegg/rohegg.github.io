@@ -10,7 +10,6 @@ author: John Lee Hancock # Add name author (optional)
 
 **영화 파운더를 보고 떠오르는 짧은 단상들**
 
-<p align="center"><img src="https://rohegg.github.io/assets/img/founder.jpg" width="80%"></p>
 
 **1. 진정한 founder란 누구인가**
 

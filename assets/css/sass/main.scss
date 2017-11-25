@@ -20,7 +20,7 @@ html {
 
 body {
   font-family: 'Montserrat', sans-serif;
-  color: $dark-gray;
+  color: $dark-purple;
   margin: 0;
   background-color: $white;
   -webkit-font-smoothing: antialiased;
@@ -94,12 +94,12 @@ pre {
 }
 
 ::-moz-selection {
-  background: rgba(49, 30, 62, 0.7);
+  background: $dark-pink;
   color: #ffffff;
 }
 
 ::selection {
-  background: rgba(49, 30, 62, 0.7);
+  background: $dark-pink;
   color: #ffffff;
 }
 
