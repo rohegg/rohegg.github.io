@@ -33,7 +33,7 @@
   }
   .subtitle {
     width: 260px;
-    color: $dark-purple;
+    color: $white;
     font-weight: 300;
     margin: 0 auto 30px;;
   }
@@ -53,13 +53,13 @@
       }
       a {
         display: block;
-        color: $light-gray;
+        color: $dark-pink;
         font-size: 21px;
         text-decoration: none;
         padding: 5px;
         transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
         &:hover {
-          color: $dark-pink;
+          color: $yellow;
           transform: scale(1.3);
         }
       }

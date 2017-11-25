@@ -18,6 +18,9 @@
       font-size: 27px;
       font-weight: 300;
       color: $dark-pink;
+      &:hover {
+        color: $yellow;
+      }
     }
   }
 }
@@ -75,6 +78,7 @@
   color: $dark-pink;
   transition: all .4s;
   &:hover {
-    opacity: .3;
+    //opacity: .3;
+    color: $yellow;
   }
 }
