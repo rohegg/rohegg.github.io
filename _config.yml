@@ -11,17 +11,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Rohegg # add your name
 author-pic: rohegg.jpg
-about-author:
+about-author: 판화를 전공하고 마케팅을 하고 있습니다. 책읽기와 무언가에 대해 감상을 남기는 것을 좋아합니다. 이 곳에서 작게나마 저의 생각을 필터링없이 기재하고 있습니다.
 
 # Contact links
-email: # Add your Email address
+email: rohegg.art@gmail.com # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: rohegg # Add your Github handle
 twitter: # Add your Twitter handle
 facebook: # Add your Facebook handle
-instagram: '@rohegg' # Add your Instagram handle
+instagram: rohegg # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
