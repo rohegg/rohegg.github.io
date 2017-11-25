@@ -13,6 +13,7 @@
   }
   .author-desc {
     h2 {
+      color : $dark-purple;
       margin: 0 0 10px;
     }
     p {
@@ -33,7 +34,8 @@
         font-size: 18px;
         color: $dark-gray;
         &:hover {
-          opacity: .8;
+          color: $dark-pink;
+          //opacity: .8;
         }
       }
     }

@@ -1266,6 +1266,7 @@ pre code {
 }
 
 .page-footer .page-share a:hover {
+  color: #4267b2;
   opacity: .8;
 }
 
@@ -1422,6 +1423,7 @@ pre code {
 }
 
 .author-box .author-desc h2 {
+  color: #000000;
   margin: 0 0 10px;
 }
 
@@ -1450,7 +1452,7 @@ pre code {
 }
 
 .author-box .author-desc li a:hover {
-  opacity: .8;
+  color: #f7557f;
 }
 
 /* = = = = = = = = = = About Page Styles = = = = = = = = = = */
