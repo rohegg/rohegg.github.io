@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-25T21:17:19+09:00</updated><id>http://localhost:4000/</id><title type="html">My personal blog - Adam Neilson</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-25T21:21:29+09:00</updated><id>http://localhost:4000/</id><title type="html">My personal blog - Adam Neilson</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><author><name>노혜란</name></author><entry><title type="html">Shoe Dog</title><link href="http://localhost:4000/Shoe-dog/" rel="alternate" type="text/html" title="Shoe Dog" /><published>2017-10-23T03:44:20+09:00</published><updated>2017-10-23T03:44:20+09:00</updated><id>http://localhost:4000/Shoe%20dog</id><content type="html" xml:base="http://localhost:4000/Shoe-dog/">&lt;p&gt;여태껏 몇 가지 다른 기업의 스토리를 읽어왔지만 슈독은 나이키의 창업자가 직접 집필한 책이라는 점에서 조금 남달랐던 것 같다. 타인의 시선이 아닌 창업자 필나이트의 1인칭 시점에서 서술되어 필나이트의 일기장을 읽는 것 같이 몰입할 수 있었다.&lt;/p&gt;
 
 &lt;p&gt;책을 읽다 몇가지를 놓고 생각에 빠졌었는데, 그 생각들을 적어본다.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets_old/img/nike.jpg&quot; alt=&quot;Yosh Ginsu&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/nike.jpg&quot; alt=&quot;Yosh Ginsu&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
