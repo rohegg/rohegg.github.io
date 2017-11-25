@@ -12,7 +12,7 @@ author: Phil Knight # Add name author (optional)
 책을 읽다 몇가지를 놓고 생각에 빠졌었는데, 그 생각들을 적어본다.
 
 <br>
-![Yosh Ginsu]({{site.baseurl}}/assets/img/nike.jpg)
+![nike]({{site.baseurl}}/assets/img/nike.jpg)
 
 <br>
 > 위대한 기업은 탄생부터 위대한가?
