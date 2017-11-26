@@ -3,14 +3,14 @@ layout: post
 title:  Pour your heart into it
 date:   2017-09-22 20:35:01 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: starbucks_main.jpg # Add image post (optional)
+img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/starbucks_main.jpg # Add image post (optional)
 tags: [Blog, Book]
 author: Howard Schultz # Add name author (optional)
 ---
 
 훌륭한 기업을 만들어내는 사람들에겐 무언가 동일한 유전자라도 있는 것일까?  스타벅스 이야기가 담긴 이 책을 끝까지 읽고 나서 이 질문을 던지지 않을 수 없었다.
 
-스타트업 업계에 종사하다보면 매일 시장과 고객에게 혁신적인 가치를 내놓는 제품의 소식을 접하게 된다. 그리고 그런 것을 만들어내는 CEO들의 인터뷰도 숱하게 접하게 된다. 
+스타트업 업계에 종사하다보면 매일 시장과 고객에게 혁신적인 가치를 내놓는 제품의 소식을 접하게 된다. 그리고 그런 것을 만들어내는 CEO들의 인터뷰도 숱하게 접하게 된다.
 
 이제 막 시작하는 기업이라고 할 수 있는 스타트업의 CEO들을 ‘훌륭한 기업가’라고 단언할 수는 없겠지만 슈퍼 루키라고 평가받는 CEO들의 인터뷰들을 읽다보면, 한 가지 공통점을 발견할 수 있다.
 <br>
@@ -36,5 +36,3 @@ author: Howard Schultz # Add name author (optional)
 
 **본연의 가치를 잃지 않으면서 변화를 받아들이고 새로운 가치를 창출해내는 것.**
 너무 당연한 말 같지만, 맥도날드와 스타벅스라는 두 기업의 스토리를 떠올려보며 오래 가는 기업들의 성공 방정식이 아닐까 생각하게 되었다.
-
-

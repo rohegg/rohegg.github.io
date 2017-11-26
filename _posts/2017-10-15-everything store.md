@@ -3,7 +3,7 @@ layout: post
 title:  Everything store
 date:   2017-10-15 07:12:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: jeffbezos.jpg # Add image post (optional)
+img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/jeffbezos.jpg # Add image post (optional)
 tags: [Blog, Books]
 author: Jeffrey Preston Bezos # Add name author (optional)
 ---
@@ -18,8 +18,6 @@ author: Jeffrey Preston Bezos # Add name author (optional)
 
 제프베조스가 지독한 성격을 가졌지만 리더로서 회사를, 팀을 이끌 수 있었던 이유는 하나인 것 같다. 그가 가진 혜안과 탁월함. 개인적으로는 리더에게 요구되는 1순위 조건이라고 생각한다. 아무리 직원을 생각하고 배려하는 리더라 할지라도, 무능력하다면 그는 리더로 인정하기 어렵지 않을까. 책을 읽는 동안 제프베조스는 그런 면에서 매우 outstanding한 리더라는 것을 알 수 있었다.
 
-아마존의 성장동력을 보면 모든 기초의 아이디어는 제프베조스 머릿속에서 시작되었고, 결과론적인 시각일 수 있지만 시장을 내다보는 혜안이 너무나 뛰어나다고 느꼈다. 한편으로는 단지 그의 혜안이 아니라, 그가 가진 능력 중 하나인 '고객을 향한 집념'과 '무조건 되게 만든다는 명확한 목표설정' 이 아마존의 결과를 만들어낸 것이 아닌가 싶기도 했다. 
+아마존의 성장동력을 보면 모든 기초의 아이디어는 제프베조스 머릿속에서 시작되었고, 결과론적인 시각일 수 있지만 시장을 내다보는 혜안이 너무나 뛰어나다고 느꼈다. 한편으로는 단지 그의 혜안이 아니라, 그가 가진 능력 중 하나인 '고객을 향한 집념'과 '무조건 되게 만든다는 명확한 목표설정' 이 아마존의 결과를 만들어낸 것이 아닌가 싶기도 했다.
 
 책에서는 제프 베조스가 어렸을 때부터 영민했고, 천재적인 사람이라고 설명한다. 하지만 natural-born genius로서 가진 혜안 외에, 그가 보여준 '고객에 대한 집념'은 도대체 무엇에서 기인했을까는 여전히 궁금한 지점이다. 무엇이 그를 그렇게 만들 수 있었을까. 제프베조스가 있는 한 아마존의 질주는 영원히 끝나지 않을 것 같다.  
-
-

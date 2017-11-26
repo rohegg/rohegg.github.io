@@ -3,7 +3,7 @@ layout: post
 title:  Happy meal
 date:   2014-07-01 00:00:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: happymeal.png # Add image post (optional)
+img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/happymeal.png # Add image post (optional)
 tags: [Blog, Drawing]
 author: rohegg # Add name author (optional)
 ---

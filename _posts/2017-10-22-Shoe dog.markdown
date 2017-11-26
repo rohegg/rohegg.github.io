@@ -3,7 +3,7 @@ layout: post
 title:  Shoe Dog
 date:   2017-10-22 21:44:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: nike.jpg # Add image post (optional)
+img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/nike.jpg # Add image post (optional)
 tags: [Blog, Books]
 author: Phil Knight # Add name author (optional)
 ---
@@ -30,7 +30,7 @@ author: Phil Knight # Add name author (optional)
 
 필나이트와 친구들이 나이키를 끝까지 함께 만들어갈 수 있었던 것은 모두 ‘스포츠 정신’이라는 기반이 있었기 때문이라는 생각을 했다. 다른 기업의 스토리에서 흔하게 볼 수 있는 co-founder의 해고, 이익 다툼이나, 자리 싸움, 사내 정치 등이 없었기 때문이다. (필나이트의 자서전이기 때문에 사실은 다를 수 있겠지만)
 
-스포츠 정신은 보통 협동심, 상호 신뢰, 공동체 의식, 책임감 등으로 명한다. 본인에게 지대한 영향을 미치는 일임에도 불구하고 필나이트가 했던 일방적인 결정에 존슨과 우델이 보여줬던 행보는 상호 신뢰를 기반으로 책임감과 공동체의식, 협동심 등의 발현이 아니었을까. 
+스포츠 정신은 보통 협동심, 상호 신뢰, 공동체 의식, 책임감 등으로 명한다. 본인에게 지대한 영향을 미치는 일임에도 불구하고 필나이트가 했던 일방적인 결정에 존슨과 우델이 보여줬던 행보는 상호 신뢰를 기반으로 책임감과 공동체의식, 협동심 등의 발현이 아니었을까.
 
 필나이트와 나이키를 함께 만들어갔던 사람들은 대다수가 운동선수 출신이었고, 그렇지 않은 경우에도 운동선수 출신의 동료들에게 스포츠 정신을 전파받았을 것 같다는 생각이 들었다.
 
