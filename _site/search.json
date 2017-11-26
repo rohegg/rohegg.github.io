@@ -129,6 +129,22 @@
     } ,
   
     {
+      "title"    : "Happy meal",
+      "category" : "",
+      "tags"     : "Blog, Drawing",
+      "url"      : "/Mcdonald-happymeal/",
+      "date"     : "2014-07-01 06:00:20 +0900"
+    } ,
+  
+    {
+      "title"    : "Alone in kyoto",
+      "category" : "",
+      "tags"     : "Blog, Drawing",
+      "url"      : "/Alone-in-kyoto/",
+      "date"     : "2014-07-01 06:00:20 +0900"
+    } ,
+  
+    {
       "title"    : "내일은 없다",
       "category" : "",
       "tags"     : "Blog, Note",
