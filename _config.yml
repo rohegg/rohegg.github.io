@@ -28,7 +28,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: rohegg-github-io # Add your discus identifier
+discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
 analytics: UA-110154972-1 # Google Analytics
