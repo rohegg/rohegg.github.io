@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: Rohegg
 email: rohegg.art@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -43,6 +44,32 @@ gems:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
+=======
+# Blog settings
+permalink: /blog/:title
 
-include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+# My variables
+name: Rohegg
+description: 🍳
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+>>>>>>> parent of e4f8841... 블로그 테마 변경
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
