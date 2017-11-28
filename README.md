@@ -1,32 +1,32 @@
-# blog
-My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
+# Adam Blog is a minimal clear theme for Jekyll
 
+![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
 
-### Install
+## Demo
 
-* fork this repository
-* edit the `_config.yml` with your info
-* change the links in `_data/navigation.yml`
-* remove my posts from `_posts/`
-* rename your repo to ***your-username*.github.io**
+Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
 
-<<<<<<< HEAD
+The main page would look like this:
 
-=======
+![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
+
+The post page would look like this:
+
+![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
+
+## Features
+
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [MailChimp](https://mailchimp.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+
+## Installation:
+
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+
 ### License
-All this stuff is under the [MIT License](https://raw.githubusercontent.com/getmicah/getmicah.github.io/master/LICENSE)
->>>>>>> parent of e4f8841... 블로그 테마 변경
 
-
-### 터미널 기본 명령어
-
--  cd
-- open .
-- ls
-- pwd
-- mkdir %folder name%
-
-
-### jekyll
-
-- 로컬 서버 실행 : bundle exec jekyll serve
+GNU General Public License v3.0
