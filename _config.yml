@@ -35,7 +35,7 @@ discus_identifier: mr-brown # Add your discus identifier
 analytics: UA-110154972-1 # Google Analytics
 
 # Paginate
-paginate: 10
+paginate: 6
 paginate_path: /page:num/
 
 # Build settings
