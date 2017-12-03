@@ -7,7 +7,7 @@
     font-size: 36px;
     text-align: center;
     margin: 0 0 30px;
-    color: $dark-purple;
+    color: $white;
   }
   .tags {
     margin: 0;
@@ -16,7 +16,7 @@
     li {
       a {
         display: inline-block;
-        color: $dark-purple;
+        color: $white;
         &:hover {
           opacity: .8;
         }
@@ -27,7 +27,7 @@
     span {
       a {
         display: inline-block;
-        color: $dark-pink;
+        color: $white;
         text-decoration: none;
         text-transform: uppercase;
         font-size: 12px;
@@ -39,7 +39,7 @@
       }
     }
     small {
-      color: $dark-purple;
+      color: $dark-pink;
     }
   }
 }
