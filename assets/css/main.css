@@ -1066,7 +1066,7 @@ pre code {
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
-  margin: 50px 0 100px;
+  margin: 50px 0 30px;
   padding: 0;
 }
 
@@ -1168,7 +1168,7 @@ pre code {
 
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */
 .main-footer {
-  padding: 0px 0;
+  padding: 20px 0;
   background-color: #000;
 }
 
