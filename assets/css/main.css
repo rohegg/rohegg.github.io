@@ -788,7 +788,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  color: #311e3e;
+  color: #000;
   font-weight: 400;
 }
 
@@ -1239,7 +1239,7 @@ pre code {
 .page-footer .page-share {
   text-transform: uppercase;
   font-size: 12px;
-  color: #311e3e;
+  color: #000;
 }
 
 .page-footer .page-tag {
@@ -1275,7 +1275,7 @@ pre code {
 .recent-box .recent-title {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
-  color: #311e3e;
+  color: #000;
   text-align: center;
   margin: 0 0 30px;
 }
@@ -1447,7 +1447,7 @@ pre code {
 }
 
 .author-box .author-desc li a:hover {
-  opacity: .8;
+  color: #e75378;
 }
 
 /* = = = = = = = = = = About Page Styles = = = = = = = = = = */
@@ -1543,7 +1543,7 @@ pre code {
   font-size: 36px;
   text-align: center;
   margin: 0 0 30px;
-  color: #311e3e;
+  color: #fff;
 }
 
 .blog-tags .tags {
@@ -1554,7 +1554,7 @@ pre code {
 
 .blog-tags .tags li a {
   display: inline-block;
-  color: #311e3e;
+  color: #ebc000;
 }
 
 .blog-tags .tags li a:hover {
@@ -1563,7 +1563,7 @@ pre code {
 
 .blog-tags .tag-list span a {
   display: inline-block;
-  color: #e75378;
+  color: #fff;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 12px;
@@ -1576,7 +1576,7 @@ pre code {
 }
 
 .blog-tags .tag-list small {
-  color: #311e3e;
+  color: #e75378;
 }
 
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
