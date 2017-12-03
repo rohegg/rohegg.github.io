@@ -1163,8 +1163,7 @@ pre code {
 }
 
 .pagination .previous:hover, .pagination .next:hover {
-  opacity: .8;
-  color: #ebc000;
+  opacity: .5;
 }
 
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */

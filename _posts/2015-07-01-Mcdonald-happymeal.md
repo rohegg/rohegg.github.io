@@ -10,4 +10,4 @@ author: rohegg # Add name author (optional)
 
 같은 시기, 맥도날드 해피밀 세트를 먹고 집에와서 만들었던 영상. 처음에는 일러로 그림만 그렸다가 애니메이션으로 만들어보고 싶었다. 맥도날드 아저씨는 항상 웃고 있지만 어딘가 모르게 슬퍼보인다고 생각했었는데 그 느낌을 잘 살려보려고 했다. 마침 비가 오던 날이라서 프렌치프라이로 비오는 것을 표현했던..
 
-<p align="center"><iframe src="https://www.youtube.com/embed/vOH5bhTbcBg?ecver=1" width="500px" height="500px" frameborder="0" gesture="media" ></iframe></p>
+<p align="center"><iframe width="500px" height="500px" src="https://www.youtube.com/embed/vOH5bhTbcBg?ecver=1" width="500px" height="500px" frameborder="0" gesture="media" ></iframe></p>
