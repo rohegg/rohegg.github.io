@@ -1,0 +1,48 @@
+title: Rohegg
+email: rohegg.art@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Rohegg # add your name
+author-pic: rohegg.jpg
+about-author: 판화를 전공하고 마케팅을 하고 있습니다. 책읽기와 무언가에 대해 감상을 남기는 것을 좋아합니다. 이 곳에서 작게나마 저의 생각을 필터링없이 기재하고 있습니다.
+
+# Contact links
+email: rohegg.art@gmail.com # Add your Email address
+phone: # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: rohegg # Add your Github handle
+twitter: # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: rohegg # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: # Add your discus identifier
+
+# Tracker
+analytics : # Google Analytics
+
+# Paginate
+paginate: 8
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
