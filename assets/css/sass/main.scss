@@ -43,11 +43,11 @@ a {
 }
 
 blockquote {
-  border-left: 3px solid $dark-purple;
+  border-left: 3px solid $black;
   padding-left: 18px;
   margin-left: 21px;
   font-style: italic;
-  color: $dark-purple;
+  color: $black;
 }
 
 pre {
@@ -100,7 +100,7 @@ pre {
 }
 
 ::selection {
-  background: rgba(49, 30, 62, 0.7);
+  background: $dark-pink;
   color: #ffffff;
 }
 

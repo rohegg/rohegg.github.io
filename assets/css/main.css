@@ -802,11 +802,11 @@ a {
 }
 
 blockquote {
-  border-left: 3px solid #311e3e;
+  border-left: 3px solid #000;
   padding-left: 18px;
   margin-left: 21px;
   font-style: italic;
-  color: #311e3e;
+  color: #000;
 }
 
 pre {
@@ -874,7 +874,7 @@ pre code {
 }
 
 ::selection {
-  background: rgba(49, 30, 62, 0.7);
+  background: #e75378;
   color: #ffffff;
 }
 
@@ -1218,7 +1218,7 @@ pre code {
   font-size: 36px;
   text-align: center;
   margin: 0 0 20px;
-  color: #311e3e;
+  color: #000;
 }
 
 .header-page .page-date {
