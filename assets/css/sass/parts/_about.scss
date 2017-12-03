@@ -12,7 +12,7 @@
   position: relative;
   text-align: center;
   padding-bottom: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   &:after {
     content: "";
     position: absolute;
@@ -20,9 +20,9 @@
     left: 50%;
     transform: translateX(-50%);
     display: block;
-    height: 1px;
+    height: 0px;
     width: 80px;
-    background-color: $dark-purple;
+    background-color: $white;
   }
   .author-image-container {
     width: 200px;
@@ -32,9 +32,10 @@
     margin: 0 auto 30px;
   }
   .subtitle {
-    color: $black;
+    width: 260px;
+    color: $white;
     font-weight: 300;
-    margin: 0;
+    margin: 0 auto 30px;
   }
 }
 
