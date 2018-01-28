@@ -4,7 +4,7 @@ title:  Shoe Dog
 date:   2017-10-22 21:44:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/nike.jpg # Add image post (optional)
-tags: [Blog, Books]
+tags: [Blog, Book]
 author: Phil Knight # Add name author (optional)
 ---
 여태껏 몇 가지 다른 기업의 스토리를 읽어왔지만 슈독은 나이키의 창업자가 직접 집필한 책이라는 점에서 조금 남달랐던 것 같다. 타인의 시선이 아닌 창업자 필나이트의 1인칭 시점에서 서술되어 필나이트의 일기장을 읽는 것 같이 몰입할 수 있었다.

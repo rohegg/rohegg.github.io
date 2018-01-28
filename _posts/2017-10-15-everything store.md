@@ -4,7 +4,7 @@ title:  Everything store
 date:   2017-10-15 07:12:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/jeffbezos.jpg # Add image post (optional)
-tags: [Blog, Books]
+tags: [Blog, Book]
 author: Jeffrey Preston Bezos # Add name author (optional)
 ---
 
