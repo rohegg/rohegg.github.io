@@ -14,6 +14,7 @@ author: # Add name author (optional)
 <br>
 >YouTube 시그널 2018 l YouTube Signal 2018  by 주영민(구글러)
 <br>
+<br>
 
 <b>유투브는 최근에도 지속적으로 성장하며 국내/글로벌 1위 영상 매체로 성장 중</b>
 - 유투브에서 1억뷰 달성 주기가 최근 2~3년 내 점점 짧아지고 있음.
@@ -37,6 +38,7 @@ author: # Add name author (optional)
 
 >YouTube 크리에이터 인사이트 l YouTube Creator Insight  by 이사배
 <br>
+<br>
 
 <b>이사배도 위에 언급한 유투브의 변화를 직접 체감하고 있는지?</b>
 - 예전에는 크리에이터들이 게임, 먹방에만 집중되어있었지만 요즘은 정말 다양한 카테고리가 많다. 
@@ -59,6 +61,7 @@ author: # Add name author (optional)
 
 >[패널토크] 앱 마케팅 리더가 바라보는 YouTube   
 >서가연, Tinder 지사장 / 차승학, ByteDance(틱톡) 콘텐츠 사업팀장 / 이희재, SPOON CSO
+<br>
 <br>
 
 <b>세 서비스 모두 유투브와 구글 UAC 캠페인을 통해 성장을 이뤘는데, 각자 어떤 목적에 focus 하였는지?</b>
@@ -95,6 +98,7 @@ author: # Add name author (optional)
 
 >[패널토크] 크리에이터를 통해 알아보는 YouTube의 새로운 트렌드  
 >오마르의 삶 (양해민) / Asian Boss (Stephen Park) / 총몇명
+<br>
 <br>
 
 <b>컨텐츠 제작에 있어 노하우가 있는지?</b>
