@@ -30,5 +30,5 @@ author: JOH # Add name author (optional)
 
 인스타그램의 로고 리뉴얼도 정체성 유지 측면에서 너무 마음에 들었던 터라 이 동영상도 함께 기록해둔다. 
 
-<p align="center"><iframe src="https://player.vimeo.com/video/166138104?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p align="center"><iframe src="https://player.vimeo.com/video/166138104?byline=0&portrait=0" width="60%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/166138104">A New Look for Instagram</a> from <a href="https://vimeo.com/instagram">Instagram</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
