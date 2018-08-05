@@ -3,7 +3,7 @@ layout: post
 title: Instagram | 매거진B
 date:   2018-08-05 00:01:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/instagram.jpeg
+img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/instagram.jpg
  # Add image post (optional)
 tags: [Blog, Book]
 author: JOH # Add name author (optional)
@@ -26,4 +26,9 @@ author: JOH # Add name author (optional)
 
 책을 읽다가 책 속 아주 작은 부분에서 내가 맡고 있는 서비스를 발견했는데, 신기하면서도 앞으로 이 책에 실릴만한 멋진 브랜드로 만들어가면 좋겠다는 생각이 들었다. (아래는 증거화면. 2018년 8월 2일 밤 10시 고속도로위 버스 안에서 발견!)
 
-<p style="text-align:center;"> <img src="https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/zigzaginmagazineb.JPG" width="80%"></p>
+<p style="text-align:center;"> <img src="https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/zigzaginmagazineb.JPG" width="60%"></p>
+
+인스타그램의 로고 리뉴얼도 정체성 유지 측면에서 너무 마음에 들었던 터라 이 동영상도 함께 기록해둔다. 
+
+<p align="center"><iframe src="https://player.vimeo.com/video/166138104?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/166138104">A New Look for Instagram</a> from <a href="https://vimeo.com/instagram">Instagram</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
