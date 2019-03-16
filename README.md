@@ -14,6 +14,10 @@
 ## start
 - npm start
 
+## upload
+- git pull
+- git commit
+- git push
 
 --- 
 
