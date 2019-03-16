@@ -7,7 +7,12 @@
 - sudo gem install bundler jekyll
 - brew install node
 - git clone https://github.com/rohegg/rohegg.github.io
-- cd ...
+- cd roghegg.github.io
+- gem install bundler jekyll
+- npm install
+
+## start
+- npm start
 
 
 --- 
