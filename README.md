@@ -3,7 +3,13 @@
 - https://github.com/artemsheludko/adam-blog zip download
 - npm install
 
+## if you have to setup from the scratch
 
+- git clone https://github.com/rohegg/rohegg.github.io
+- cd ...
+
+
+--- 
 
 <!-- # Adam Blog is a minimal clear theme for Jekyll
 
