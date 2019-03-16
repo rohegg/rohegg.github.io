@@ -4,7 +4,8 @@
 - npm install
 
 ## if you have to setup from the scratch
-
+- gem install bundler jekyll
+- brew install node
 - git clone https://github.com/rohegg/rohegg.github.io
 - cd ...
 
