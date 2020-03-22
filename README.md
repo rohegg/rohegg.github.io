@@ -1,7 +1,6 @@
 # roghegg
 
 - https://github.com/artemsheludko/adam-blog zip download
-- npm install
 
 ## if you have to setup from the scratch
 - sudo gem install bundler jekyll
@@ -12,7 +11,7 @@
 - npm install
 
 ## start
-- npm start
+- bundle exec jekyll serve
 
 ## upload
 - git pull
