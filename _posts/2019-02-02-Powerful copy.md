@@ -8,7 +8,6 @@ img: https://s3.ap-northeast-2.amazonaws.com/rohegggithubio/powerful.png
 tags: [Blog, Book]
 author:  # Add name author (optional)
 ---
-
 > <b>작지만, 방해가 되는 사람이 없는 팀.</b>
 <br>
 <br>
@@ -67,3 +66,26 @@ author:  # Add name author (optional)
 - 내가 창출해낼 수 있는 가치와 보상 수준을 정량적으로 어떻게 연결할 것인가?
 
 <b>4. 나는 탁월함을 추구하는가? 누군가에게 도전정신을 불러일으키는 고성과자인가?</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
