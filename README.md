@@ -3,11 +3,10 @@
 - https://github.com/artemsheludko/adam-blog zip download
 
 ## if you have to setup from the scratch
-- sudo gem install bundler jekyll
-- brew install node
 - git clone https://github.com/rohegg/rohegg.github.io
 - cd roghegg.github.io
 - gem install bundler jekyll
+- brew install node
 - npm install
 
 ## start
