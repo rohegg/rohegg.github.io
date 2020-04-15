@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My lunch-box diary
-date: 2020-04-15 00:01:00 +0900
+date: 2020-02-11 00:01:00 +0900
 description:
 img: /assets/img/lunchbox.jpg
  # Add image post (optional)
@@ -30,12 +30,12 @@ I've referred to Japanese ladies' videos. Also, the 'Tasty' and 'Beak's' channel
 
 - にぎりっ娘。nigiricco
 
-<p align="center"><iframe width="500px" height="500px" src="https://youtu.be/k3-HnS_CSGc" width="100%" frameborder="0" gesture="media" allowfullscreen></iframe></p>
+<p align="center"><iframe width="500px" height="500px" src="https://www.youtube.com/embed/k3-HnS_CSGc" width="100%" frameborder="0" gesture="media" allowfullscreen></iframe></p>
 
 
 - 厨房呀我在家snowenn
 
-<p align="center"><iframe width="500px" height="500px" src="https://youtu.be/fSU3Xrc3Kmk" width="100%" frameborder="0" gesture="media" allowfullscreen></iframe></p>
+<p align="center"><iframe width="500px" height="500px" src="https://www.youtube.com/embed/fSU3Xrc3Kmk" width="100%" frameborder="0" gesture="media" allowfullscreen></iframe></p>
 
 After a couple of back and forth, I became able to make my own rules. Now the preparation time gets halved, and I can manage my morning schedule.
 
@@ -44,7 +44,7 @@ I divided one hour by 15 minutes. Two quarters are allocated for lunch-box, one 
 
 - Yoga Boy
 
-<p align="center"><iframe width="500px" height="500px" src="https://youtu.be/ezEs6sbSsOg" width="100%" frameborder="0" gesture="media" allowfullscreen></iframe></p>
+<p align="center"><iframe width="500px" height="500px" src="https://www.youtube.com/embed/ezEs6sbSsOg" width="100%" frameborder="0" gesture="media" allowfullscreen></iframe></p>
 
 
 It's been only one week, but I've been keeping this routine so far. And I'll continue this till at the end of Jan. (When the end of January comes, I'd like to check what kind of changes happen. If there's something I need to adjust, I should do.)
